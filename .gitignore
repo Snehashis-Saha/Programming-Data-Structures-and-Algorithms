@@ -1,0 +1,5 @@
+*.exe
+.gitattributes
+*.class
+test.*
+command.txt
